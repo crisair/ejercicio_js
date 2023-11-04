@@ -1,0 +1,1 @@
+const generarAlerta =() => alert("esta es una alerta");
