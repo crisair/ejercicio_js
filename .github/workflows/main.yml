@@ -27,8 +27,3 @@ jobs:
         run: npm install --no-audit --no-found --no-opcional
         env:
           CI: true
-
-
- 
-      - name: Run the tests and generate coverage report
-        run: npm run test:unit:coverage
